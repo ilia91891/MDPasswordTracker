@@ -15,6 +15,8 @@ pip install pywin32
 pip install shutil
 pip install pycrypto
 pip install crypto
+OR
+pip install pycrypto
  ```
 <h4> Youtube : <a href="https://www.youtube.com/channel/UCGsKXfbCyhZoLIRukYUQyYQ?sub_confirmation=1">https://www.youtube.com/channel/UCGsKXfbCyhZoLIRukYUQyYQ</a> </h4>
 <h4> Instagram : <a href="https://www.instagram.com/MDtrackers/">https://www.instagram.com/mdtrackers/</a> </h4>
